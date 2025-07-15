@@ -34,9 +34,9 @@ To run any script successfully:
 
 ## 📥 Dataset Setup
 
-Add the datasets to the `data/` folder manually.
+Create `data/` folder in Task_Python and add the datasets to the folder manually.
 
-The `data/` folder is included in the project structure but is intentionally left empty. You must download the original files from the following Google Drive link:
+You must download the original files from the following Google Drive link:
 
 🔗 [Download Datasets](https://drive.google.com/file/d/1Jq0fPb-tq76Ee_RtM58fT0_M3o-JDBwe/view?usp=sharing)
 
